@@ -12,7 +12,7 @@ En caso de necesidad técnica, se pueden modificar los códigos asegurando que s
 
 ## Tabla de Contenidos
 
-- [Instalación](#instalación)
+- [Instalación](/instalación)
 - [Uso](#uso)
 - [Actualización OTA](#actualización-ota)
 - [Contribuciones](#contribuciones)
